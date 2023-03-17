@@ -1,0 +1,15 @@
+E:\C# Btvn\Final_C_NKN\Final_C_NKN\bin\Debug\net6.0\Final_C_NKN.exe
+E:\C# Btvn\Final_C_NKN\Final_C_NKN\bin\Debug\net6.0\Final_C_NKN.deps.json
+E:\C# Btvn\Final_C_NKN\Final_C_NKN\bin\Debug\net6.0\Final_C_NKN.runtimeconfig.json
+E:\C# Btvn\Final_C_NKN\Final_C_NKN\bin\Debug\net6.0\Final_C_NKN.dll
+E:\C# Btvn\Final_C_NKN\Final_C_NKN\bin\Debug\net6.0\Final_C_NKN.pdb
+E:\C# Btvn\Final_C_NKN\Final_C_NKN\obj\Debug\net6.0\Final_C_NKN.csproj.AssemblyReference.cache
+E:\C# Btvn\Final_C_NKN\Final_C_NKN\obj\Debug\net6.0\Final_C_NKN.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Btvn\Final_C_NKN\Final_C_NKN\obj\Debug\net6.0\Final_C_NKN.AssemblyInfoInputs.cache
+E:\C# Btvn\Final_C_NKN\Final_C_NKN\obj\Debug\net6.0\Final_C_NKN.AssemblyInfo.cs
+E:\C# Btvn\Final_C_NKN\Final_C_NKN\obj\Debug\net6.0\Final_C_NKN.csproj.CoreCompileInputs.cache
+E:\C# Btvn\Final_C_NKN\Final_C_NKN\obj\Debug\net6.0\Final_C_NKN.dll
+E:\C# Btvn\Final_C_NKN\Final_C_NKN\obj\Debug\net6.0\refint\Final_C_NKN.dll
+E:\C# Btvn\Final_C_NKN\Final_C_NKN\obj\Debug\net6.0\Final_C_NKN.pdb
+E:\C# Btvn\Final_C_NKN\Final_C_NKN\obj\Debug\net6.0\Final_C_NKN.genruntimeconfig.cache
+E:\C# Btvn\Final_C_NKN\Final_C_NKN\obj\Debug\net6.0\ref\Final_C_NKN.dll

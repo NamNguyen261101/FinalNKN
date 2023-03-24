@@ -1,0 +1,15 @@
+E:\C# Btvn\ThiTho\ThiTho\bin\Debug\net6.0\ThiTho.exe
+E:\C# Btvn\ThiTho\ThiTho\bin\Debug\net6.0\ThiTho.deps.json
+E:\C# Btvn\ThiTho\ThiTho\bin\Debug\net6.0\ThiTho.runtimeconfig.json
+E:\C# Btvn\ThiTho\ThiTho\bin\Debug\net6.0\ThiTho.dll
+E:\C# Btvn\ThiTho\ThiTho\bin\Debug\net6.0\ThiTho.pdb
+E:\C# Btvn\ThiTho\ThiTho\obj\Debug\net6.0\ThiTho.csproj.AssemblyReference.cache
+E:\C# Btvn\ThiTho\ThiTho\obj\Debug\net6.0\ThiTho.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Btvn\ThiTho\ThiTho\obj\Debug\net6.0\ThiTho.AssemblyInfoInputs.cache
+E:\C# Btvn\ThiTho\ThiTho\obj\Debug\net6.0\ThiTho.AssemblyInfo.cs
+E:\C# Btvn\ThiTho\ThiTho\obj\Debug\net6.0\ThiTho.csproj.CoreCompileInputs.cache
+E:\C# Btvn\ThiTho\ThiTho\obj\Debug\net6.0\ThiTho.dll
+E:\C# Btvn\ThiTho\ThiTho\obj\Debug\net6.0\refint\ThiTho.dll
+E:\C# Btvn\ThiTho\ThiTho\obj\Debug\net6.0\ThiTho.pdb
+E:\C# Btvn\ThiTho\ThiTho\obj\Debug\net6.0\ThiTho.genruntimeconfig.cache
+E:\C# Btvn\ThiTho\ThiTho\obj\Debug\net6.0\ref\ThiTho.dll
